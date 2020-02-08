@@ -115,7 +115,10 @@ author:
     #  icon: "fas fa-fw fa-envelope-square"
       # url: mailto:pluie7j@gmail.com
     
-     
+    - label: "HOME"
+      icon: "fas fa-fw fa-link"
+      url: "https://pluie7dev.github.io/honeylapin"
+      
     - label: "INVEST"
       icon: "fas fa-fw fa-link"
       url: "https://pluie7dev.github.io/INVEST/"
